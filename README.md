@@ -1,4 +1,4 @@
 # Odin Recipes
 
 ## Description
-This project
+This project is an exercise is HTML fundamentals. Demonstrations 
